@@ -40,6 +40,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrybertagna)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bertagnahenry@gmail.com)
 
----
-
-📌 Continuously growing through practice and curiosity.
